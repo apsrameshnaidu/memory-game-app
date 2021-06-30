@@ -34,4 +34,4 @@ Setup of frontend:
 
 # 'http://localhost:3000'
 
-NOTE: To play this memory game, we need to add some card details into the database. You can find some sample card details in cards.json file.
+NOTE: To play this memory game, you need to add some card details into the database. You can find some sample card details in cards.json file.
