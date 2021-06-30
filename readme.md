@@ -32,6 +32,6 @@ Setup of frontend:
 
 3. Frontend server will run on 3000 port:
 
-# 'http://localhost:8000'
+# 'http://localhost:3000'
 
 NOTE: To play this memory game, we need to add some card details into the database. You can find some sample card details in cards.json file.
