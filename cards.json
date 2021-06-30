@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "maincolor": "#FFA500",
+        "currentcolor": "#FFFFFF"
+    },
+    {
+        "id": 2,
+        "maincolor": "#800000",
+        "currentcolor": "#FFFFFF"
+    },
+    {
+        "id": 3,
+        "maincolor": "#FFA500",
+        "currentcolor": "#FFFFFF"
+    },
+    {
+        "id": 4,
+        "maincolor": "#808000",
+        "currentcolor": "#FFFFFF"
+    },
+    {
+        "id": 5,
+        "maincolor": "#808000",
+        "currentcolor": "#FFFFFF"
+    },
+    {
+        "id": 6,
+        "maincolor": "#FFA500",
+        "currentcolor": "#FFFFFF"
+    },
+    {
+        "id": 7,
+        "maincolor": "#FFFF00",
+        "currentcolor": "#FFFFFF"
+    },
+    {
+        "id": 8,
+        "maincolor": "#FFA500",
+        "currentcolor": "#FFFFFF"
+    },
+    {
+        "id": 9,
+        "maincolor": "#808080",
+        "currentcolor": "#FFFFFF"
+    },
+    {
+        "id": 10,
+        "maincolor": "#800000",
+        "currentcolor": "#FFFFFF"
+    },
+    {
+        "id": 11,
+        "maincolor": "#FFFF00",
+        "currentcolor": "#FFFFFF"
+    },
+    {
+        "id": 12,
+        "maincolor": "#808080",
+        "currentcolor": "#FFFFFF"
+    },
+    {
+        "id": 13,
+        "maincolor": "#800080",
+        "currentcolor": "#FFFFFF"
+    },
+    {
+        "id": 14,
+        "maincolor": "#00FF00",
+        "currentcolor": "#FFFFFF"
+    },
+    {
+        "id": 15,
+        "maincolor": "#00FF00",
+        "currentcolor": "#FFFFFF"
+    }
+]
